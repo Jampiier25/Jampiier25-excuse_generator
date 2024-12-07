@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url("https://demuestra.com/wp-content/uploads/2019/08/Excusas.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-size: 250%;
+}
+div.container {
+  display: flex;
+  padding: 100px;
+  inline-size: auto;
+  font-size: 150%;
+}
